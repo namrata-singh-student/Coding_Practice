@@ -1,5 +1,5 @@
 
-package Cognizant_Qus;
+package Cognizant_Practice;
 
 import java.util.*;
 
